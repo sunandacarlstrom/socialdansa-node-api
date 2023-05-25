@@ -5,10 +5,9 @@ const app = express();
 
 // Skapar enpointresurser...
 app.get("/api/v1/danceband", async (req, res) => {
-    res.status(200).json({
-        id: 1,
-        name: "Perikles"
-    });
+    const url = "http://localhost:3000/danceband";
+    const {data} = await axios.get(url);
+    res.status(200).json(data);
 });
 
 app.post("/api/v1/danceband", async (req, res) => {
