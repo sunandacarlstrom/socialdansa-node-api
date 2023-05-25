@@ -1,69 +1,84 @@
 {
-    "socialdance": 
-    [
-        {
-            "id" : 1,
-            "datum":"2023-01-02",
-            "tid":"19:00-23:00",
-            "dansband":"Sannex",
-            "dansställe":"Huskvarna Folkets Park",
-            "ort":"Jönköping"
-        },
-        {
-            "id" : 2,
-            "datum":"2023-01-02",
-            "tid":"19:00-23:00",
-            "dansband":"Casanovas & Lasse-Stefanz",
-            "dansställe":"Huskvarna Folkets Park",
-            "ort":"Jönköping"
-        },
-        {
-            "id" : 3,
-            "datum":"2023-01-02",
-            "tid":"19:00-23:00",
-            "dansband":"Callinaz & Expanders",
-            "dansställe":"Huskvarna Folkets Park",
-            "ort":"Jönköping"
-        }
-    ],
-
-    "danceband": 
-    [
-        {
-            "id": 1,
-            "name": "Sannex",
-            "text": "Sannex är ett dansband från Ystad och bildades först som ett skolprojekt år 1977. En låt som alltid spelas ute på dansbanerna idag är 'Det flammar till'.",
-            "src": "images/danceband/Perikles.jpeg"
-        },
-        {
-            "id": 2,
-            "name": "Perikles",
-            "text": "Perikles är ett dansband som bildades år 1974 i Ystad. Minns du melodin av 'Var ska vi sova inatt?'",
-            "src": "images/danceband/Perikles.jpeg"
-        },
-        {
-            "id": 3,
-            "name": "Arvingarna",
-            "text": "Arvingarna är ett dansband från Partille i Göteborg som bjuder på låtar av mestadels pop/schlager. Deras mest kända låt är Eloise som tog hem vinsten i Melodifestivalen 1993.",
-            "src": "images/danceband/Perikles.jpeg"
-        },
-        {
-            "id": 4,
-            "name": "Callinaz",
-            "text": "Callinaz är ett dansband med influenser av rockabilly/rock'n'roll från Klippan i Skåne och bildades år 2010.",
-            "src": "images/danceband/Perikles.jpeg"
-        },
-        {
-            "id": 5,
-            "name": "Blender",
-            "text": "Blender är ett dansband från Vadstena som bildades år 2002.", 
-            "src": "images/danceband/Perikles.jpeg"
-        },
-        {
-            "id": 6,
-            "name": "Donnez",
-            "text": "Donnez är ett dansband från Perstorp i Skåne som bildades år 2000.", 
-            "src": "images/danceband/Perikles.jpeg"
-        }
-    ]
+  "socialdance": [
+    {
+      "id": 1,
+      "datum": "2023-01-02",
+      "tid": "19:00-23:00",
+      "dansband": "Sannex",
+      "dansställe": "Huskvarna Folkets Park",
+      "ort": "Jönköping"
+    },
+    {
+      "id": 2,
+      "datum": "2023-01-02",
+      "tid": "19:00-23:00",
+      "dansband": "Casanovas & Lasse-Stefanz",
+      "dansställe": "Huskvarna Folkets Park",
+      "ort": "Jönköping"
+    },
+    {
+      "id": 3,
+      "datum": "2023-01-02",
+      "tid": "19:00-23:00",
+      "dansband": "Callinaz & Expanders",
+      "dansställe": "Huskvarna Folkets Park",
+      "ort": "Jönköping"
+    }
+  ],
+  "danceband": [
+    {
+      "id": 1,
+      "name": "Sannex",
+      "text": "Sannex är ett dansband från Ystad och bildades först som ett skolprojekt år 1977. En låt som alltid spelas ute på dansbanerna idag är 'Det flammar till'",
+      "src": "images/danceband/Perikles.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Perikles",
+      "text": "Perikles är ett dansband som bildades år 1974 i Ystad. Minns du melodin av 'Var ska vi sova inatt?'",
+      "src": "images/danceband/Perikles.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Arvingarna",
+      "text": "Arvingarna är ett dansband från Partille i Göteborg som bjuder på låtar av mestadels pop/schlager. Deras mest kända låt är Eloise som tog hem vinsten i Melodifestivalen 1993.",
+      "src": "images/danceband/Perikles.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Callinaz",
+      "text": "Callinaz är ett dansband med influenser av rockabilly/rock'n'roll från Klippan i Skåne och bildades år 2010.",
+      "src": "images/danceband/Perikles.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Blender",
+      "text": "Blender är ett dansband från Vadstena som bildades år 2002.",
+      "src": "images/danceband/Perikles.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Donnez",
+      "text": "Donnez är ett dansband från Perstorp i Skåne som bildades år 2000.",
+      "src": "images/danceband/Perikles.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Xplays",
+      "text": "Xplays är ett dansband från Motala som bildades 2010. Deras mest kända låt är 'Jag vill och jag vågar'",
+      "src": "images/danceband/Perikles.jpeg"
+    },
+    {
+      "name": "Wahlströms",
+      "text": "Wahlströms är ett dansband i Vadstena i Sverige, startat 1985. Om du inte känner till detta dansband kanske du känner igen melodin 'Blå blå ögon'",
+      "src": "images/danceband/Perikles.jpeg",
+      "id": 8
+    },
+    {
+      "name": "Streaplers",
+      "text": "Streaplers är en svensk musikgrupp som bildades 1959 i Kungälv som popgrupp men som senare förändrades till dansband.",
+      "src": "images/danceband/Perikles.jpeg",
+      "id": 9
+    }
+  ]
 }
